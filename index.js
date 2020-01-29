@@ -12,6 +12,7 @@ module.exports = {
             create: 'Stwórz',
             delete: 'Usuń',
             edit: 'Edytuj',
+            expand: 'Rozwiń',
             export: 'Eksportuj',
             list: 'Lista',
             refresh: 'Odśwież',
